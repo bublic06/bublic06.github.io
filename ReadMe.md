@@ -1,0 +1,1 @@
+[MaGo](https://bublic06.github.io/mogo/index.html)
